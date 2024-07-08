@@ -1,8 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
-
-namespace StringsAndStructures
+﻿namespace StringsAndStructures
 {   
     internal class Program
     {
